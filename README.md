@@ -1,2 +1,2 @@
-# basic-react-template
-basic react template
+# basic-node-react-mysql
+basic node-react-mysql template, dockerized
